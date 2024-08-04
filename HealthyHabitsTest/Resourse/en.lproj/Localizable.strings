@@ -1,0 +1,46 @@
+/* 
+  Localizable.strings
+  HealthyHabitsTest
+
+  Created by Владимир Иванов on 03.08.2024.
+  
+*/
+
+"af1.love" = "I am worthy of love and deserve to receive love in abundance";
+"af2.love" = "My heart is open to giving and receiving love";
+"af3.love" = "I am surrounded by love every day and in every way";
+"af4.love" = "I attract love and loving relationships into my life";
+"af5.love" = "Love flows to me and through me effortlessly";
+"af6.love" = "I radiate love and others reflect love back to me";
+"af7.love" = "My relationships are filled with love, happiness, and respect";
+"af8.love" = "I am grateful for the love that surrounds me";
+"af9.love" = "Love comes to me easily and effortlessly";
+"af10.love" = "I am a magnet for loving and fulfilling relationships";
+
+"af1.friends" = "I am surrounded by supportive and loving friends";
+"af2.friends" = "I attract positive and loyal friendships into my life";
+"af3.friends" = "My friends and I share mutual respect and trust";
+"af4.friends" = "I am a kind and caring friend, and I receive the same in return";
+"af5.friends" = "My friendships are filled with joy, laughter, and understanding";
+"af6.friends" = "I am grateful for the amazing friends in my life";
+"af7.friends" = "I nurture and cherish my friendships";
+"af8.friends" = "I attract friends who support and uplift me";
+"af9.friends" = "My friends and I grow together in love and harmony";
+"af10.friends" = "I am a magnet for genuine and lasting friendships";
+
+"category" = "Category";
+"background" = "Background";
+"gender" = "Gender";
+"settings" = "Settings";
+"language_selection" = "Language Selection";
+"love" = "Love";
+"friendship" = "Friendship";
+"male" = "Male";
+"female" = "Female";
+"continue_button" = "Continue";
+"blue" = "Blue";
+"red" = "Red";
+"selected_category" = "Select a category?";
+"selected_background" = "Select background color?";
+"selecte_gender" = "What is your gender?";
+"gender_subtitle" = "This will help you choose content just for you.";
